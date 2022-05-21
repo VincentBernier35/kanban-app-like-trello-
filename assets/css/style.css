@@ -1,0 +1,11 @@
+html {
+  overflow-x: scroll;
+  background-color: #ccc;
+}
+body {
+  height: 100vh;
+}
+
+.card-lists {
+  overflow-x: auto;
+}
